@@ -1,8 +1,5 @@
 # SBSPS-Challenge-918-Wind-Energy-Prediction-App
 
-[![GitHub stars](https://img.shields.io/github/stars/RocketChat/Apps.Google.Calendar.svg)](https://github.com/SmartPracticeschool/SBSPS.Challenge.918.Wind.Energy.Prediction.App/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/RocketChat/Apps.Gooagle.Calendar.svg)](https://github.com/SmartPracticeschool/SBSPS.Challenge.918.Wind.Energy.Prediction.App/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/RocketChat/Apps.Google.Calendar.svg)](https://github.com/SmartPracticeschool/SBSPS.Challenge.918.Wind.Energy.Prediction.App/issues)
 
 ---
 <p align="center">
