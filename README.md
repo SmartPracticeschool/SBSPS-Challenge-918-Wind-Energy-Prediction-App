@@ -15,14 +15,7 @@
 * **This project has been developed as part of the [IBM Hack Challenge 2020](https://smartinternz.com/ibm-hack-challenge-2020) by Team Seven**.
 
 ## Features 
-* Predicts wind output from simple user inputs.
-* Prediction can range from 1 hour to 72 hours.
-* Recommends the wind farm admins the best time period for power generation.
-* Visualize the power output using graphs.
-* Compare the outputs for any two wind farm sites using "Compare" screen.
-* Download the predicted power output in CSV format.
-* Store the historical data in database to train the machine learning models. 
-* Uses three important weather features to predict the power output.
+
 
 ## How to use it
 * The application is deployed [here](https://node-red-seven.eu-gb.mybluemix.net/ui/#!/0?socketid=0rhfSrtrPdiOimYiAAAT).
