@@ -12,7 +12,7 @@
 ---
 
 
-* **This project has been developed as part of the [IBM Hack Challenge 2020] (https://smartinternz.com/ibm-hack-challenge-2020) by Team Seven**.
+* **This project has been developed as part of the [IBM Hack Challenge 2020](https://smartinternz.com/ibm-hack-challenge-2020) by Team Seven**.
 
 ## Features 
 * Predicts wind output from simple user inputs.
