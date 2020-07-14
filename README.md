@@ -30,7 +30,6 @@
 [![Demo for Wind Power Prediction App](https://img.youtube.com/)](https://www.youtube.com/) 
 
 ## Screenshots
-![Main Screen](https://github.com/SmartPracticeschool/SBSPS-Challenge-918-Wind-Energy-Prediction-App/blob/master/1594690629863.png "App's Login Screen")![Graphs](https://github.com/SmartPracticeschool/SBSPS-Challenge-918-Wind-Energy-Prediction-App/blob/master/1594690673221.png "App's Pic 2")![Graphs pic 2](https://github.com/SmartPracticeschool/SBSPS-Challenge-918-Wind-Energy-Prediction-App/blob/master/1594690765448.png "App's pic 3")![Compare Screen](https://github.com/SmartPracticeschool/SBSPS-Challenge-918-Wind-Energy-Prediction-App/blob/master/1594690819158.png "App's Compare Screen")![Compare Screen 2](https://github.com/SmartPracticeschool/SBSPS-Challenge-918-Wind-Energy-Prediction-App/blob/master/1594690849652.png "App's Compare Screen")![Compare Screen 3](https://github.com/SmartPracticeschool/SBSPS-Challenge-918-Wind-Energy-Prediction-App/blob/master/1594690865828.png "App's Compare Screen")
 
 
 ## Feedback and Suggestions
