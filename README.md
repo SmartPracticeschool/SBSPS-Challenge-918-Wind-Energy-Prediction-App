@@ -34,7 +34,7 @@
 ## Application Demo
 
 **Demo video will be uploaded soon.
-![Drive link for demo video](https://drive.google.com/drive/folders/1fEQifJqz2sGh04n7tk1qv8rR9qnusjZe?usp=sharing) 
+![Drive link for demo video] - https://drive.google.com/drive/folders/1fEQifJqz2sGh04n7tk1qv8rR9qnusjZe?usp=sharing
 
 ## Screenshots
 ![Main Screen](https://github.com/SmartPracticeschool/SBSPS-Challenge-918-Wind-Energy-Prediction-App/blob/master/Screenshots%2C%20PPT%2C%20Report/1594690629863.png "App's Login Screen")![Graphs](https://github.com/SmartPracticeschool/SBSPS-Challenge-918-Wind-Energy-Prediction-App/blob/master/Screenshots%2C%20PPT%2C%20Report/1594690673221.png "App's Pic 2")![Graphs pic 2](https://github.com/SmartPracticeschool/SBSPS-Challenge-918-Wind-Energy-Prediction-App/blob/master/Screenshots%2C%20PPT%2C%20Report/1594690765448.png "App's pic 3")![Compare Screen](https://github.com/SmartPracticeschool/SBSPS-Challenge-918-Wind-Energy-Prediction-App/blob/master/Screenshots%2C%20PPT%2C%20Report/1594690819158.png "App's Compare Screen")![Compare Screen 2](https://github.com/SmartPracticeschool/SBSPS-Challenge-918-Wind-Energy-Prediction-App/blob/master/Screenshots%2C%20PPT%2C%20Report/1594690849652.png "App's Compare Screen")![Compare Screen 3](https://github.com/SmartPracticeschool/SBSPS-Challenge-918-Wind-Energy-Prediction-App/blob/master/Screenshots%2C%20PPT%2C%20Report/1594690865828.png "App's Compare Screen")
